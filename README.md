@@ -1,5 +1,6 @@
 # Active-Directory-infrastructure
-![image](https://github.com/user-attachments/assets/4fee5f49-6d8f-4295-9d8b-4dab5e243cb9)
+![image](https://github.com/user-attachments/assets/a5fa0b18-7b16-4ba3-86ba-9e8155df5aa5)
+
 
 
 
@@ -14,8 +15,7 @@ This tutorial outlines the additions of a virtual network and Azure virtual mach
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+
 
 <h2>Operating Systems Used </h2>
 
