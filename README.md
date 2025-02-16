@@ -1,7 +1,6 @@
 # Active-Directory-infrastructure
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-</p>
+![image](https://github.com/user-attachments/assets/c996ef81-0a4f-4e8d-bd77-ab8dfde8645a)
+
 
 <h1>Active Directory Network build out (Azure)</h1>
 This tutorial outlines the additions of a virtual network and Azure virtual machines for the purpose of using Active Directory.<br />
