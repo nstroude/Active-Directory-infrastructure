@@ -1,5 +1,6 @@
 # Active-Directory-infrastructure
-![image](https://github.com/user-attachments/assets/c996ef81-0a4f-4e8d-bd77-ab8dfde8645a)
+![image](https://github.com/user-attachments/assets/7464b3f1-e232-49fe-bc49-4f8ebb803fa7)
+
 
 
 <h1>Active Directory Network build out (Azure)</h1>
