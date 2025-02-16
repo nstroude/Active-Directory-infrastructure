@@ -1,5 +1,6 @@
 # Active-Directory-infrastructure
-![image](https://github.com/user-attachments/assets/7464b3f1-e232-49fe-bc49-4f8ebb803fa7)
+![image](https://github.com/user-attachments/assets/4fee5f49-6d8f-4295-9d8b-4dab5e243cb9)
+
 
 
 
